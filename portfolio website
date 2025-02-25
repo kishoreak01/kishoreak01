@@ -1,5 +1,20 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <title> portfolio </title>
+    <title>portfolio</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
+  <body>
+    <center>
+      <div class="upper">
+        <h1>PORTFOLIO</h1>
+    </div>
+    <h1 class="kodu">
+        <hr></h1>
+    </center>
+    <div class="photo">
+        <img src="Capture.PNG" alt="">
+    </div>
+   
+  </body>
 </html>
